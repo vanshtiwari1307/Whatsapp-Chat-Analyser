@@ -44,7 +44,6 @@ Streamlit – Web application framework<br>
 Regex (re) – Text preprocessing<br>
 WordCloud – Word visualization<br>
 <br>
-
 📥 How to Export WhatsApp Chat<br>
 1) Open WhatsApp<br>
 2) Select a chat or group<br>
@@ -53,3 +52,33 @@ WordCloud – Word visualization<br>
 5) Save the .txt file<br>
 <br>
 
+📌 Use Cases<br>
+Personal chat behavior analysis<br>
+Group activity insights<br>
+Learning data analytics with real data<br>
+Python & Streamlit practice project<br>
+<br>
+🔮 Future Enhancements<br>
+Sentiment analysis using NLP<br>
+Language detection<br>
+Chat comparison feature<br>
+Advanced filtering options<br>
+Deployment on Streamlit Cloud<br>
+<br>
+👨‍💻 Author<br>
+Vansh Tiwari<br>
+📌 Aspiring Data Analyst | Python Developer<br>
+📊 Skilled in Python, SQL, Data Visualization & Machine Learning<br>
+<br>
+⭐ Show Your Support<br>
+If you find this project helpful:<br>
+⭐ Star the repository<br>
+🍴 Fork it<br>
+🐛 Report issues or suggest improvements<br>
+
+
+
+
+#DataAnalytics #PythonProjects #Streamlit #WhatsAppChatAnalyzer
+#DataVisualization #EDA #RealWorldProjects #BuildInPublic
+#AnalyticsPortfolio #DataAnalyst
