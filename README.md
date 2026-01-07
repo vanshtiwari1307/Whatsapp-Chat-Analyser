@@ -68,6 +68,7 @@ WordCloud – Word visualization<br>
 3) Learning data analytics with real data<br>
 4) Python & Streamlit practice project<br>
 <br>
+
 ## 🔮 Future Enhancements<br>
 1) Sentiment analysis using NLP<br>
 2) Language detection<br>
@@ -75,11 +76,13 @@ WordCloud – Word visualization<br>
 4) Advanced filtering options<br>
 5) Deployment on Streamlit Cloud<br>
 <br>
+
 ## 👨‍💻 Author<br>
 Vansh Tiwari<br>
 📌 Aspiring Data Analyst | Python Developer<br>
 📊 Skilled in Python, SQL, Data Visualization & Machine Learning<br>
 <br>
+
 ## ⭐ Show Your Support<br>
 If you find this project helpful:<br>
 ⭐ Star the repository<br>
