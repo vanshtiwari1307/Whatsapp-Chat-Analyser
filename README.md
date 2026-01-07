@@ -4,6 +4,7 @@
 ## 🚀 Project Overview<br>
 WhatsApp generates large volumes of unstructured conversational data, but extracting insights from it is not straightforward.<br>
 This project converts raw WhatsApp chat exports into structured, analyzable data, helping users understand communication patterns, activity trends, emoji usage, and overall engagement.<br>
+<br>
 The application provides an easy-to-use interface where users can upload their chat file and instantly explore detailed analytics.<br>
 <br>
 
@@ -13,34 +14,34 @@ The application provides an easy-to-use interface where users can upload their c
 1) Total messages, words, media, and links count<br>
 2) Most active users in group chats<br>
 3) Daily, monthly, and yearly activity trends<br>
-4)Weekly activity heatmap<br>
+4) Weekly activity heatmap<br>
 <br>
 
 ### 😊 Emoji & Word Analysis<br>
-1)Most frequently used emojis<br>
-2)Emoji distribution pie charts<br>
-3)Word frequency analysis<br>
-4)WordCloud visualization<br>
+1) Most frequently used emojis<br>
+2) Emoji distribution pie charts<br>
+3) Word frequency analysis<br>
+4) WordCloud visualization<br>
 <br>
 
 ### ⏰ Time-Based Insights<br>
 1) Most active days and months<br>
-2)Peak chatting hours<br>
+2) Peak chatting hours<br>
 3) Activity timeline (monthly & daily)<br>
 <br>
 
 ### 🎨 Interactive Dashboard<br>
 1) Built with Streamlit<br>
 2) Clean and responsive UI<br>
-3)Real-time visualization updates<br>
+3) Real-time visualization updates<br>
 <br>
 
 ## 🧠 Why This Project Matters<br>
-Converts unstructured text data into valuable insights<br>
-Demonstrates real-world data analytics workflow<br>
-Ideal portfolio project for Data Analyst & Python Developer roles<br>
-Applies data cleaning, EDA, and visualization techniques<br>
-Shows ability to work with real user-generated data<br>
+1) Converts unstructured text data into valuable insights<br>
+2) Demonstrates real-world data analytics workflow<br>
+3) Ideal portfolio project for Data Analyst & Python Developer roles<br>
+4) Applies data cleaning, EDA, and visualization techniques<br>
+5) Shows ability to work with real user-generated data<br>
 <br>
 
 ## 🛠️ Tech Stack<br>
@@ -62,17 +63,17 @@ WordCloud – Word visualization<br>
 <br>
 
 ## 📌 Use Cases<br>
-Personal chat behavior analysis<br>
-Group activity insights<br>
-Learning data analytics with real data<br>
-Python & Streamlit practice project<br>
+1) Personal chat behavior analysis<br>
+2) Group activity insights<br>
+3) Learning data analytics with real data<br>
+4) Python & Streamlit practice project<br>
 <br>
 ## 🔮 Future Enhancements<br>
-Sentiment analysis using NLP<br>
-Language detection<br>
-Chat comparison feature<br>
-Advanced filtering options<br>
-Deployment on Streamlit Cloud<br>
+1) Sentiment analysis using NLP<br>
+2) Language detection<br>
+3) Chat comparison feature<br>
+4) Advanced filtering options<br>
+5) Deployment on Streamlit Cloud<br>
 <br>
 ## 👨‍💻 Author<br>
 Vansh Tiwari<br>
